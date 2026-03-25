@@ -1,2 +1,3 @@
 print('snake go')
 print('go left')
+print('game over')
